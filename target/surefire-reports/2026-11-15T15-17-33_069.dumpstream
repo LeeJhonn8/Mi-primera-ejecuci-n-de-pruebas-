@@ -1,0 +1,5 @@
+# Created at 2026-11-15T15:17:33.242
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Ingenieria en sistemas de computacion\V Cuatri\Programación ClienteServidor Concurrente\Programs\Pruebas_seliniumautomationexercise\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

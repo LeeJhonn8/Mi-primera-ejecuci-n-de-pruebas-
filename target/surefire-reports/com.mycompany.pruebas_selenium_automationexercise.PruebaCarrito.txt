@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.pruebas_selenium_automationexercise.PruebaCarrito
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.622 s -- in com.mycompany.pruebas_selenium_automationexercise.PruebaCarrito
